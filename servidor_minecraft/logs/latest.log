@@ -336,3 +336,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 14:51:59.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [23Mar2025 14:51:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
 [23Mar2025 15:10:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [I Spy With My Little Eye]
+[23Mar2025 15:15:25.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved wrongly!
+[23Mar2025 15:27:37.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17315, l='ServerLevel[world]', x=-452.50, y=69.00, z=282.03] died, message: 'Unemployed was slain by Zombie'
+[23Mar2025 15:27:40.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17316, l='ServerLevel[world]', x=-448.32, y=69.00, z=282.28] died, message: 'Farmer was slain by Zombie'
+[23Mar2025 15:35:14.879] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:crimson_mosquito
+[23Mar2025 15:35:14.916] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:laviathan
+[23Mar2025 15:35:14.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
