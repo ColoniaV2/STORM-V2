@@ -368,3 +368,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 18:10:44.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26747, l='ServerLevel[world]', x=-424.80, y=67.00, z=250.45] died, message: 'Unemployed was shot by Pillager'
 [23Mar2025 18:11:17.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26745, l='ServerLevel[world]', x=-425.51, y=67.00, z=251.13] died, message: 'Unemployed was shot by Pillager'
 [23Mar2025 18:11:39.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/26746, l='ServerLevel[world]', x=-422.01, y=67.00, z=250.50] died, message: 'Nitwit was shot by Pillager'
+[23Mar2025 18:18:11.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Fishy Business]
+[23Mar2025 18:28:40.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[23Mar2025 18:28:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
