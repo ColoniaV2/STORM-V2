@@ -363,3 +363,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 17:28:26.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [23Mar2025 17:28:26.514] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
 [23Mar2025 17:36:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [A Cut Above the Rest]
+[23Mar2025 18:09:06.346] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26542, l='ServerLevel[world]', x=-448.60, y=69.00, z=281.56] died, message: 'Unemployed was shot by Pillager'
+[23Mar2025 18:10:27.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/26744, l='ServerLevel[world]', x=-424.13, y=67.00, z=250.68] died, message: 'Shepherd was shot by Pillager'
+[23Mar2025 18:10:44.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26747, l='ServerLevel[world]', x=-424.80, y=67.00, z=250.45] died, message: 'Unemployed was shot by Pillager'
+[23Mar2025 18:11:17.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26745, l='ServerLevel[world]', x=-425.51, y=67.00, z=251.13] died, message: 'Unemployed was shot by Pillager'
+[23Mar2025 18:11:39.900] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/26746, l='ServerLevel[world]', x=-422.01, y=67.00, z=250.50] died, message: 'Nitwit was shot by Pillager'
