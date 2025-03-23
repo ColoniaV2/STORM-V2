@@ -61,11 +61,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-23 21:36:25 +0000",
+      "minecraft:deep_ocean": "2025-03-23 21:32:17 +0000",
       "minecraft:birch_forest": "2025-03-22 19:24:17 +0000",
       "minecraft:beach": "2025-03-22 19:46:16 +0000",
       "minecraft:sparse_jungle": "2025-03-22 19:25:22 +0000",
       "minecraft:river": "2025-03-22 19:24:08 +0000",
       "minecraft:lukewarm_ocean": "2025-03-23 17:25:06 +0000",
+      "minecraft:forest": "2025-03-23 21:36:30 +0000",
       "minecraft:lush_caves": "2025-03-22 22:12:02 +0000",
       "minecraft:jungle": "2025-03-22 19:43:49 +0000",
       "minecraft:ocean": "2025-03-23 17:25:09 +0000",
@@ -103,12 +106,15 @@
       "minecraft:blaze": "2025-03-23 15:43:04 +0000",
       "minecraft:skeleton": "2025-03-22 19:33:38 +0000",
       "minecraft:hoglin": "2025-03-23 15:40:22 +0000",
+      "minecraft:vindicator": "2025-03-23 21:37:36 +0000",
       "minecraft:spider": "2025-03-23 17:48:51 +0000",
       "minecraft:creeper": "2025-03-22 13:22:36 +0000",
+      "minecraft:evoker": "2025-03-23 21:39:00 +0000",
       "minecraft:slime": "2025-03-23 20:35:15 +0000",
       "minecraft:wither_skeleton": "2025-03-23 15:42:22 +0000",
       "minecraft:piglin": "2025-03-23 20:22:53 +0000",
       "minecraft:enderman": "2025-03-23 17:39:38 +0000",
+      "minecraft:vex": "2025-03-23 21:38:09 +0000",
       "minecraft:zombie": "2025-03-22 19:37:59 +0000"
     },
     "done": false
@@ -1703,7 +1709,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-03-22 19:40:24 +0000"
+      "illager_camp": "2025-03-22 19:40:24 +0000",
+      "mansion": "2025-03-23 21:37:07 +0000"
     },
     "done": false
   },
@@ -4007,7 +4014,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-03-23 17:41:07 +0000"
+      "glow_berries": "2025-03-23 17:41:07 +0000",
+      "brown_mushroom": "2025-03-23 21:21:36 +0000"
     },
     "done": false
   },
@@ -4227,6 +4235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
@@ -4281,9 +4295,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-03-23 21:16:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-03-23 21:21:31 +0000"
     },
     "done": true
   },
@@ -4317,15 +4349,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-03-23 21:30:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
   "witherstormmod:recipes/food/golden_apple_stew": {
     "criteria": {
       "has_golden_apple": "2025-03-23 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
     },
     "done": true
   },
@@ -4353,15 +4403,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-23 21:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-03-23 21:37:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-03-23 20:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
     },
     "done": true
   },
@@ -4407,9 +4487,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-23 21:30:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
     },
     "done": true
   },
@@ -4425,9 +4529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-23 21:30:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-23 21:30:08 +0000"
     },
     "done": true
   },
@@ -4449,15 +4565,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-03-23 21:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-23 21:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
     },
     "done": true
   },
@@ -4473,6 +4619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-03-23 21:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-23 20:35:29 +0000"
@@ -4482,6 +4634,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-03-23 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
     },
     "done": true
   },
@@ -4530,6 +4688,12 @@
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-03-23 21:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-03-23 21:30:59 +0000"
     },
     "done": true
   },
