@@ -106,6 +106,7 @@
       "minecraft:spider": "2025-03-23 17:48:51 +0000",
       "minecraft:creeper": "2025-03-22 13:22:36 +0000",
       "minecraft:wither_skeleton": "2025-03-23 15:42:22 +0000",
+      "minecraft:piglin": "2025-03-23 20:22:53 +0000",
       "minecraft:enderman": "2025-03-23 17:39:38 +0000",
       "minecraft:zombie": "2025-03-22 19:37:59 +0000"
     },
@@ -3991,51 +3992,27 @@
     },
     "done": true
   },
-  "witherstormmod:recipes/redstone/firework_bundle": {
+  "spartanweaponry:greatsword": {
     "criteria": {
-      "has_barrel": "2025-03-23 18:14:07 +0000"
+      "has_greatsword": "2025-03-23 17:36:08 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "has_any_ingredient": "2025-03-23 18:18:47 +0000"
+      "has_any_ingredient": "2025-03-23 17:41:00 +0000"
     },
     "done": true
   },
-  "miners_delight:recipes/food/baked_squid_smoking": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_squid": "2025-03-23 18:18:46 +0000"
+      "glow_berries": "2025-03-23 17:41:07 +0000"
     },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-03-23 18:18:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-23 18:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-03-23 18:00:00 +0000"
-    },
-    "done": true
+    "done": false
   },
   "miners_delight:recipes/cooking/cave_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-23 17:50:10 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/squid_sandwich": {
-    "criteria": {
-      "has_squid": "2025-03-23 18:18:46 +0000"
     },
     "done": true
   },
@@ -4063,45 +4040,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "glow_berries": "2025-03-23 17:41:07 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-23 17:41:00 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-03-23 17:50:10 +0000"
     },
     "done": true
   },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-03-23 17:36:08 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_squid_campfire": {
-    "criteria": {
-      "has_squid": "2025-03-23 18:18:46 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/food/baked_cave_carrot": {
     "criteria": {
       "has_cave_carrot": "2025-03-23 17:50:10 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/takoyaki": {
-    "criteria": {
-      "has_squid": "2025-03-23 18:18:46 +0000"
     },
     "done": true
   },
@@ -4114,24 +4061,6 @@
   "miners_delight:recipes/food/cave_carrots_from_crate": {
     "criteria": {
       "has_cave_carrot": "2025-03-23 17:50:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-03-23 18:18:47 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_squid": {
-    "criteria": {
-      "has_squid": "2025-03-23 18:18:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-03-23 18:18:47 +0000"
     },
     "done": true
   },
@@ -4153,15 +4082,141 @@
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/stuffed_squid": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_any_ingredient": "2025-03-23 18:18:46 +0000"
+      "has_bone_meal": "2025-03-23 18:00:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-03-23 18:00:00 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_barrel": "2025-03-23 18:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-03-23 18:18:11 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-03-23 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-03-23 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_campfire": {
+    "criteria": {
+      "has_squid": "2025-03-23 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/takoyaki": {
+    "criteria": {
+      "has_squid": "2025-03-23 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid": {
+    "criteria": {
+      "has_squid": "2025-03-23 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/stuffed_squid": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-23 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-23 18:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-23 18:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-23 18:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-23 18:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-23 19:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-23 19:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-23 19:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-23 20:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 20:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-23 20:22:54 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-03-23 20:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-03-23 20:19:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-23 20:12:09 +0000"
     },
     "done": true
   },
