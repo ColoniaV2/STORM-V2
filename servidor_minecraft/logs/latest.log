@@ -371,3 +371,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 18:18:11.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Fishy Business]
 [23Mar2025 18:28:40.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
 [23Mar2025 18:28:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[23Mar2025 19:20:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Mar2025 19:20:26.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Mar2025 19:20:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Mar2025 19:20:26.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Mar2025 19:20:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Mar2025 19:20:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[23Mar2025 19:20:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Mar2025 19:20:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Mar2025 19:20:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Mar2025 19:20:29.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[23Mar2025 19:20:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Mar2025 19:20:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
