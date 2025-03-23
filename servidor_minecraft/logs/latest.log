@@ -392,3 +392,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 20:18:29.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [23Mar2025 20:18:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
 [23Mar2025 20:26:15.514] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[23Mar2025 21:16:05.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has reached the goal [Pray to the Goddess]
