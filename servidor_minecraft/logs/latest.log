@@ -335,3 +335,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 14:31:19.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver moved too quickly! -0.047863917070230855,0.0,-10.207415796384453
 [23Mar2025 14:51:59.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [23Mar2025 14:51:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[23Mar2025 15:10:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [I Spy With My Little Eye]
