@@ -2065,3 +2065,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Mar2025 21:54:14.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airship (vehicle of LuxSilver) moved too quickly! -10.777461443146649,1.5191941997727554E-5,2.1496324737101986
 [23Mar2025 21:54:14.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Airship (vehicle of LuxSilver) moved too quickly! -10.23812609310221,1.4432344897841176E-5,2.0371882743110064
 [23Mar2025 22:04:23.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Swashbuckler]
+[23Mar2025 22:13:55.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Crafting a New Look]
+[23Mar2025 22:18:58.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[23Mar2025 22:18:58.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
