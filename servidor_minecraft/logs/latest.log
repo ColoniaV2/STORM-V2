@@ -402,3 +402,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Mar2025 15:33:16.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
 [24Mar2025 15:38:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Mar2025 15:38:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g<--[HERE]
+[24Mar2025 15:44:37.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:42373] logged in with entity id 39517 at (-467.5, 78.0, 400.5)
+[24Mar2025 15:44:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[24Mar2025 15:44:37.867] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
