@@ -397,3 +397,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Mar2025 14:36:31.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=15, z=-364} BlockPos{x=81, y=14, z=-365}
 [24Mar2025 14:59:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Large Scale Mining]
 [24Mar2025 15:00:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [A Better Pickaxe]
+[24Mar2025 15:29:55.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[24Mar2025 15:33:16.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[24Mar2025 15:33:16.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[24Mar2025 15:38:15.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Mar2025 15:38:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g<--[HERE]
