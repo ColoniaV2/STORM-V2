@@ -4825,9 +4825,93 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/netherite_parrying_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-03-24 14:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-03-24 14:28:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battleaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 14:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
     },
     "done": true
   },
@@ -4837,9 +4921,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/netherite_lance_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_pike_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-24 14:47:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_flanged_mace_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-24 14:28:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
     },
     "done": true
   },
@@ -4849,9 +4969,153 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 14:52:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_quarterstaff_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_boomerang_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_glaive_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2025-03-24 14:52:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
   "spartangobber:recipes/misc/nether_gobber_pole": {
     "criteria": {
       "has_rod": "2025-03-24 14:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-24 14:52:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_katana_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_halberd_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_warhammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_saber_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2025-03-24 14:50:19 +0000"
     },
     "done": true
   },
