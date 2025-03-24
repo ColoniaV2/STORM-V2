@@ -4831,6 +4831,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
@@ -4852,6 +4858,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe": {
+    "criteria": {
+      "gobber2_pickaxe": "2025-03-24 15:00:17 +0000"
     },
     "done": true
   },
@@ -4879,6 +4891,12 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_saber": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
@@ -4897,6 +4915,12 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_battleaxe": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-24 14:52:16 +0000"
@@ -4906,6 +4930,24 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_glaive": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_halberd": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_heavy_crossbow": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -4921,9 +4963,27 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2025-03-24 15:00:04 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_pike": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_lance_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_warhammer": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -4939,6 +4999,18 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_throwing_knife": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_quarterstaff": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_flanged_mace_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
@@ -4948,6 +5020,12 @@
   "spartanweaponry:recipes/netherite_bolt": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_javelin": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -4966,6 +5044,12 @@
   "gobber2:gobber2_rod_nether": {
     "criteria": {
       "gobber2_rod_nether": "2025-03-24 14:26:38 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_spear": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -5005,6 +5089,12 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_parrying_dagger": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
@@ -5020,6 +5110,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_longsword": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -5047,6 +5143,18 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_rapier": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_battle_hammer": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
@@ -5059,9 +5167,27 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_lance": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_miner": {
+    "criteria": {
+      "gobber2_ring_miner": "2025-03-24 14:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-24 14:52:16 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_dagger": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -5095,9 +5221,33 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_tomahawk": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_greatsword": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_scythe": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-24 14:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_katana": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
@@ -5113,9 +5263,33 @@
     },
     "done": true
   },
+  "spartangobber:recipes/gobber_flanged_mace": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/misc/gobber_pole": {
+    "criteria": {
+      "has_rod": "2025-03-24 15:00:04 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_boomerang": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
+    },
+    "done": true
+  },
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2025-03-24 14:50:19 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/gobber_longbow": {
+    "criteria": {
+      "has_gobber": "2025-03-24 14:54:18 +0000"
     },
     "done": true
   },
