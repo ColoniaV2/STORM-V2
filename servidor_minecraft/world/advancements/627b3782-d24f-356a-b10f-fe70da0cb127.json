@@ -5185,6 +5185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-24 15:26:47 +0000"
+    },
+    "done": true
+  },
   "spartangobber:recipes/gobber_dagger": {
     "criteria": {
       "has_gobber": "2025-03-24 14:54:18 +0000"
@@ -5272,6 +5278,12 @@
   "spartangobber:recipes/misc/gobber_pole": {
     "criteria": {
       "has_rod": "2025-03-24 15:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-03-24 15:26:47 +0000"
     },
     "done": true
   },
