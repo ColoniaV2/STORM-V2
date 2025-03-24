@@ -390,3 +390,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Mar2025 13:59:05.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [24Mar2025 13:59:05.244] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
 [24Mar2025 13:59:06.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[24Mar2025 14:26:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Path to Better Gear]
+[24Mar2025 14:27:44.957] [Worker-Main-4/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.1231055f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[24Mar2025 14:28:09.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Hidden in the Depths]
+[24Mar2025 14:36:31.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=15, z=-364} BlockPos{x=81, y=14, z=-365}
+[24Mar2025 14:36:31.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=15, z=-364} BlockPos{x=81, y=14, z=-365}

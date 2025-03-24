@@ -90,7 +90,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-15 14:02:52 +0000"
+      "minecraft:crimson_forest": "2025-03-15 14:02:52 +0000",
+      "minecraft:soul_sand_valley": "2025-03-24 14:27:46 +0000"
     },
     "done": false
   },
@@ -4820,6 +4821,36 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-03-23 22:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-24 14:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-24 14:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-24 14:28:09 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2025-03-24 14:26:38 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/misc/nether_gobber_pole": {
+    "criteria": {
+      "has_rod": "2025-03-24 14:26:38 +0000"
     },
     "done": true
   },
