@@ -113,6 +113,7 @@
       "minecraft:creeper": "2025-03-22 13:22:36 +0000",
       "minecraft:evoker": "2025-03-23 21:39:00 +0000",
       "minecraft:slime": "2025-03-23 20:35:15 +0000",
+      "minecraft:witch": "2025-03-24 15:55:58 +0000",
       "minecraft:wither_skeleton": "2025-03-23 15:42:22 +0000",
       "minecraft:piglin": "2025-03-23 20:22:53 +0000",
       "minecraft:enderman": "2025-03-23 17:39:38 +0000",
@@ -5302,6 +5303,168 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2025-03-24 15:26:47 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_longbow": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-03-24 15:55:08 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_katana": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_heavy_crossbow": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_battleaxe": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_lance": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_greatsword": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_boots": "2025-03-24 15:50:10 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_longsword": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_warhammer": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_scythe": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_throwing_knife": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_flanged_mace": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_nether": {
+    "criteria": {
+      "gobber2_ingot_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_spear": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_halberd": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_battle_hammer": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_quarterstaff": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_dagger": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_pike": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_rapier": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_parrying_dagger": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_glaive": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_boomerang": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_tomahawk": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_javelin": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "spartangobber:recipes/nether_saber": {
+    "criteria": {
+      "has_nether": "2025-03-24 15:49:31 +0000"
     },
     "done": true
   },
