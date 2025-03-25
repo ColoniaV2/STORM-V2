@@ -405,3 +405,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Mar2025 15:18:48.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
 [25Mar2025 15:18:49.121] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
 [25Mar2025 15:18:49.122] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[25Mar2025 15:25:03.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Refreshing all chunk loaders]
+[25Mar2025 15:26:52.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: 1 ticket(s) of type 'wither_storm' at chunk [-7, -34]]
