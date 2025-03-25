@@ -4484,3 +4484,89 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Mar2025 15:41:48.595] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-5, -44] with radius 12
 [25Mar2025 15:41:50.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-5, -44]
 [25Mar2025 15:41:50.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-5, -43] with radius 12
+[25Mar2025 15:42:18.545] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-5, -43]
+[25Mar2025 15:42:18.545] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-5, -42] with radius 12
+[25Mar2025 15:42:25.095] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-5, -42]
+[25Mar2025 15:42:25.095] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-6, -42] with radius 12
+[25Mar2025 15:42:34.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 15:42:34.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 15:42:54.845] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-6, -42]
+[25Mar2025 15:42:54.845] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-7, -42] with radius 12
+[25Mar2025 15:43:08.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-7, -42]
+[25Mar2025 15:43:08.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-7, -43] with radius 12
+[25Mar2025 15:43:38.795] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-7, -43]
+[25Mar2025 15:43:38.795] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-7, -44] with radius 12
+[25Mar2025 15:43:40.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-7, -44]
+[25Mar2025 15:43:40.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-8, -44] with radius 12
+[25Mar2025 15:44:08.545] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-8, -44]
+[25Mar2025 15:44:08.545] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-8, -45] with radius 12
+[25Mar2025 15:44:35.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-8, -45]
+[25Mar2025 15:44:35.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-9, -45] with radius 12
+[25Mar2025 15:44:36.345] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-9, -45]
+[25Mar2025 15:44:36.345] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-9, -46] with radius 12
+[25Mar2025 15:45:04.095] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-9, -46]
+[25Mar2025 15:45:04.095] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-9, -47] with radius 12
+[25Mar2025 15:45:31.845] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-9, -47]
+[25Mar2025 15:45:31.845] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-9, -48] with radius 12
+[25Mar2025 15:45:39.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-9, -48]
+[25Mar2025 15:45:39.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-10, -48] with radius 12
+[25Mar2025 15:45:59.595] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-10, -48]
+[25Mar2025 15:45:59.595] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-10, -49] with radius 12
+[25Mar2025 15:46:27.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-10, -49]
+[25Mar2025 15:46:27.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-10, -50] with radius 12
+[25Mar2025 15:46:43.045] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-10, -50]
+[25Mar2025 15:46:43.045] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-11, -50] with radius 12
+[25Mar2025 15:46:55.045] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-11, -50]
+[25Mar2025 15:46:55.045] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-11, -51] with radius 12
+[25Mar2025 15:47:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Set phase 3.0 for Wither Storm]
+[25Mar2025 15:47:22.795] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-11, -51]
+[25Mar2025 15:47:22.795] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-11, -52] with radius 12
+[25Mar2025 15:47:34.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 15:47:34.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 15:47:46.845] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-11, -52]
+[25Mar2025 15:47:46.845] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -52] with radius 12
+[25Mar2025 15:47:50.545] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -52]
+[25Mar2025 15:47:50.545] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -53] with radius 12
+[25Mar2025 15:48:18.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -53]
+[25Mar2025 15:48:18.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -54] with radius 12
+[25Mar2025 15:48:45.995] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -54]
+[25Mar2025 15:48:45.995] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -55] with radius 12
+[25Mar2025 15:48:50.645] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -55]
+[25Mar2025 15:48:50.645] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-13, -55] with radius 12
+[25Mar2025 15:49:09.945] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-13, -55]
+[25Mar2025 15:49:09.945] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-13, -56] with radius 12
+[25Mar2025 15:49:10.595] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-13, -56]
+[25Mar2025 15:49:10.595] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -56] with radius 12
+[25Mar2025 15:49:11.945] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -56]
+[25Mar2025 15:49:11.945] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -57] with radius 12
+[25Mar2025 15:49:35.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -57]
+[25Mar2025 15:49:35.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-12, -58] with radius 12
+[25Mar2025 15:49:50.145] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-12, -58]
+[25Mar2025 15:49:50.145] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-13, -58] with radius 12
+[25Mar2025 15:50:22.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-13, -58]
+[25Mar2025 15:50:22.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-13, -59] with radius 12
+[25Mar2025 15:50:33.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-13, -59]
+[25Mar2025 15:50:33.195] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-14, -59] with radius 12
+[25Mar2025 15:50:35.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-14, -59]
+[25Mar2025 15:50:35.295] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-14, -60] with radius 12
+[25Mar2025 15:51:06.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/139543, l='ServerLevel[world]', x=-227.84, y=99.74, z=-964.37] died, message: 'Unemployed was shot by a skull from Wither Storm'
+[25Mar2025 15:51:07.400] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-14, -60]
+[25Mar2025 15:51:07.400] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-14, -61] with radius 12
+[25Mar2025 15:51:09.077] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-14, -61]
+[25Mar2025 15:51:09.077] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-15, -61] with radius 12
+[25Mar2025 15:51:12.974] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-15, -61]
+[25Mar2025 15:51:12.974] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-15, -60] with radius 12
+[25Mar2025 15:51:16.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[25Mar2025 15:51:22.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/131564, l='ServerLevel[world]', x=-242.03, y=92.91, z=-949.34] died, message: 'Leatherworker was chomped by Wither Storm'
+[25Mar2025 15:51:31.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133853, l='ServerLevel[world]', x=-238.27, y=90.01, z=-947.93] died, message: 'Unemployed was shot by a skull from Wither Storm'
+[25Mar2025 15:51:32.793] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-15, -60]
+[25Mar2025 15:51:32.793] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-15, -59] with radius 12
+[25Mar2025 15:51:37.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133856, l='ServerLevel[world]', x=-233.56, y=81.34, z=-936.34] died, message: 'Unemployed was shot by a skull from Wither Storm'
+[25Mar2025 15:51:39.583] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-15, -59]
+[25Mar2025 15:51:39.584] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-15, -60] with radius 12
+[25Mar2025 15:52:00.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133858, l='ServerLevel[world]', x=-245.09, y=82.35, z=-945.98] died, message: 'Unemployed was shot by a skull from Wither Storm'
+[25Mar2025 15:52:01.635] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-15, -60]
+[25Mar2025 15:52:01.635] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-16, -60] with radius 12
+[25Mar2025 15:52:01.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Mar2025 15:52:15.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Unloading chunk [-16, -60]
+[25Mar2025 15:52:15.395] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loading chunk [-16, -61] with radius 12
