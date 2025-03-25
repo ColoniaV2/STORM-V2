@@ -64,6 +64,7 @@
       "minecraft:old_growth_pine_taiga": "2025-03-23 21:36:25 +0000",
       "minecraft:deep_ocean": "2025-03-23 21:32:17 +0000",
       "minecraft:birch_forest": "2025-03-22 19:24:17 +0000",
+      "minecraft:bamboo_jungle": "2025-03-25 15:06:54 +0000",
       "minecraft:beach": "2025-03-22 19:46:16 +0000",
       "minecraft:sparse_jungle": "2025-03-22 19:25:22 +0000",
       "minecraft:river": "2025-03-22 19:24:08 +0000",
@@ -5312,12 +5313,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_rich_soil": {
-    "criteria": {
-      "get_rich_soil": "2025-03-24 15:55:08 +0000"
-    },
-    "done": true
-  },
   "spartangobber:recipes/nether_katana": {
     "criteria": {
       "has_nether": "2025-03-24 15:49:31 +0000"
@@ -5345,12 +5340,6 @@
   "spartangobber:recipes/nether_greatsword": {
     "criteria": {
       "has_nether": "2025-03-24 15:49:31 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_armor": {
-    "criteria": {
-      "gobber2_boots": "2025-03-24 15:50:10 +0000"
     },
     "done": true
   },
@@ -5465,6 +5454,48 @@
   "spartangobber:recipes/nether_saber": {
     "criteria": {
       "has_nether": "2025-03-24 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_boots": "2025-03-24 15:50:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-03-24 15:55:08 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/summon_wither_storm": {
+    "criteria": {
+      "summoned_wither_storm": "2025-03-25 15:10:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-03-25 15:10:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-25 15:10:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/root": {
+    "criteria": {
+      "summoned_wither_storm": "2025-03-25 15:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-25 15:10:31 +0000"
     },
     "done": true
   },

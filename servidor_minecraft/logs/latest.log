@@ -389,3 +389,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Mar2025 14:59:49.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:58493] logged in with entity id 23 at (-465.9343511073205, 79.0, 407.56379625026005)
 [25Mar2025 14:59:49.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [25Mar2025 14:59:49.571] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[25Mar2025 15:10:31.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Spooky Scary Skeleton]
+[25Mar2025 15:10:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Nothing Built Can Last Forever]
+[25Mar2025 15:16:04.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LuxSilver: Set Evolution Speed 8.0 for Wither Storm]
+[25Mar2025 15:16:39.566] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25Mar2025 15:16:39.567] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[25Mar2025 15:17:28.839] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25Mar2025 15:17:40.431] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[25Mar2025 15:17:43.586] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[25Mar2025 15:18:41.544] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[25Mar2025 15:18:41.777] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[25Mar2025 15:18:41.778] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[25Mar2025 15:18:48.906] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[25Mar2025 15:18:48.906] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[25Mar2025 15:18:48.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[25Mar2025 15:18:49.121] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[25Mar2025 15:18:49.122] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
